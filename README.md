@@ -8,7 +8,7 @@ Computer Science Student, Teaching Assistant at Bina Nusantara University. Passi
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [adewirya6@gmail.com](mailto:adewirya6@gmail.com)
-* 🧠  I'm learning Advanced Laravel
+* 🧠  I'm learning Laravel
 
 ### Skills
 
