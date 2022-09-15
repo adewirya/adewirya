@@ -7,8 +7,7 @@ Full-Stack Developer
 Computer Science Student, Teaching Assistant at Bina Nusantara University. Passionate in being a web developer.
 
 * 🌍  I'm based in Indonesia
-* ✉️  You can contact me at [adewirya6@gmail.com](mailto:adewirya6@gmail.com)
-* 🧠  I'm learning Laravel
+* ✉️  You can contact me at [adewirya6@gmail.com](mailto:adewirya88@gmail.com)
 
 ### Skills
 
